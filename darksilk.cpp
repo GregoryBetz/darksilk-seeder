@@ -5,8 +5,8 @@
 #include "protocol.h"
 #include "serialize.h"
 #include "uint256.h"
-                          //TODO: Update to DRKSLK Nonce
-#define DARKSILK_SEED_NONCE  0x0539a019ca550825ULL
+                          
+#define DARKSILK_SEED_NONCE  0xBA554
 
 using namespace std;
 
